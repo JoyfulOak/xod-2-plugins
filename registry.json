@@ -1,4 +1,11 @@
 {
   "schemaVersion": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "id": "example.hello-world",
+      "repository": "JoyfulOak/xod-2-hello-world",
+      "version": "1.0.0",
+      "bundlePath": "plugins/example.hello-world/1.0.0/xod-plugin.zip"
+    }
+  ]
 }
